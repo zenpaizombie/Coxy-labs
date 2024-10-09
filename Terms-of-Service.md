@@ -1,10 +1,8 @@
-Here is a draft for the **Terms of Service** for your economy Discord bot, Coxy:
-
 ---
 
-**Terms of Service for Coxy Economy Discord Bot**
+**Terms of Service for Coxy**
 
-**Last Updated:** [Insert Date]
+**Last Updated:** [10/9/14]
 
 Welcome to Coxy Economy Bot (“Coxy,” "the bot"). By using Coxy, you agree to the following Terms of Service ("Terms"). These Terms govern your use of Coxy within Discord and outline the rules and limitations of your interactions with the bot.
 
