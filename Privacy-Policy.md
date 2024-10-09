@@ -1,8 +1,6 @@
-Here is a draft for Coxy's Privacy Policy:
-
 ---
 
-**Privacy Policy for Coxy Economy Discord Bot**
+**Privacy Policy for Coxy**
 
 **Last Updated:** [10/9/24]
 
